@@ -1,0 +1,16 @@
+C:\Users\zaydc\projects\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.exe
+C:\Users\zaydc\projects\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.deps.json
+C:\Users\zaydc\projects\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.runtimeconfig.json
+C:\Users\zaydc\projects\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.runtimeconfig.dev.json
+C:\Users\zaydc\projects\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.dll
+C:\Users\zaydc\projects\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\ref\InheritanceDemo.dll
+C:\Users\zaydc\projects\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.pdb
+C:\Users\zaydc\projects\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.csprojAssemblyReference.cache
+C:\Users\zaydc\projects\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaydc\projects\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\zaydc\projects\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.AssemblyInfo.cs
+C:\Users\zaydc\projects\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\zaydc\projects\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.dll
+C:\Users\zaydc\projects\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\ref\InheritanceDemo.dll
+C:\Users\zaydc\projects\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.pdb
+C:\Users\zaydc\projects\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.genruntimeconfig.cache
